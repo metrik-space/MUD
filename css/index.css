@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300;400;500;600;700&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.slick-dots {
+  z-index: 100;
+}
+
+@font-face {
+    font-family: "FKScreamer";
+    src: url("/FKScreamer-Bold.woff");
+  }
+
+  @font-face {
+    font-family: "SpaceGrotesk-Bold";
+    src: url("/SpaceGrotesk-Bold.woff");
+  }
+
+  @font-face {
+    font-family: "SpaceGrotesk-SemiBold";
+    src: url("/SpaceGrotesk-SemiBold.woff");
+  }
+
+  @font-face {
+    font-family: "SpaceGrotesk-Medium";
+    src: url("/SpaceGrotesk-Medium.woff");
+  }
+
+  @font-face {
+    font-family: "SpaceGrotesk-Regular";
+    src: url("/SpaceGrotesk-Regular.woff");
+  }
+
+  @font-face {
+    font-family: "SpaceGrotesk-Light";
+    src: url("/SpaceGrotesk-Light.woff");
+  }
